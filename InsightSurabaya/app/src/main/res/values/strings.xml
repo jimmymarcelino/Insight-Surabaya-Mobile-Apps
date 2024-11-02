@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Insight Surabaya</string>
+    <string name="google_api_key">AIzaSyA5J25I_pqvFnOuyizePb6HcqPvXNfJ2Bs</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

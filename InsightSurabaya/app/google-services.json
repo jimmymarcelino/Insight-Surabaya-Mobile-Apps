@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983272678660",
+    "project_id": "manpo-2d32c",
+    "storage_bucket": "manpo-2d32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983272678660:android:24fdb275e99553c32d9c51",
+        "android_client_info": {
+          "package_name": "com.example.insightsurabaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983272678660-s907vd7rm8m0ia6aegktg8l8mtskg0oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqju1f6d7ZoDh31rKlT1wg-LPwLBPn7d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983272678660-s907vd7rm8m0ia6aegktg8l8mtskg0oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
